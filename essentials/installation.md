@@ -1,4 +1,4 @@
-# Installation
+# Installation Instructions
 
 FormKit can be downloaded using a package manager like `npm` or `yarn` or it can be used directly via CDN.
 
